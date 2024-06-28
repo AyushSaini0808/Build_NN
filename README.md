@@ -3,7 +3,7 @@
 ## INTRODUCTION
 --------
 
-A neural network is the foundation of many deep learning applications. Moreover in all of the deep learning projects we simply use the NN models present in famous packages such as Tensorflow and Keras and therefore we observe the superficial working the model. Thorugh this notebook i would like to highlight the important procedures that are involved in a neural network
+A neural network is the foundation of many deep learning applications. Moreover in all of the deep learning projects we simply use the NN models present in famous packages such as Tensorflow and Keras and therefore we observe the superficial working of the model. Through this notebook i would like to highlight the important procedures that are involved in a neural network
 
 ## Dataset
 ---------
